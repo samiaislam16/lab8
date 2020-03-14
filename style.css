@@ -1,0 +1,20 @@
+*{
+	margin=0;
+	padding=0;
+}
+
+
+.header{
+	
+	border: 1px solid black;
+
+}
+.right{
+
+	text-decoration: none;
+	float: top right;
+}
+.order,li,a{
+	list-style: none;
+	text-decoration: none;
+}
